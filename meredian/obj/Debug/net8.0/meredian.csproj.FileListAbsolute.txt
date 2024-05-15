@@ -1,0 +1,14 @@
+C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\meredian\bin\Debug\net8.0\meredian.exe
+C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\meredian\bin\Debug\net8.0\meredian.deps.json
+C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\meredian\bin\Debug\net8.0\meredian.runtimeconfig.json
+C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\meredian\bin\Debug\net8.0\meredian.dll
+C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\meredian\bin\Debug\net8.0\meredian.pdb
+C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\meredian\obj\Debug\net8.0\meredian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\meredian\obj\Debug\net8.0\meredian.AssemblyInfoInputs.cache
+C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\meredian\obj\Debug\net8.0\meredian.AssemblyInfo.cs
+C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\meredian\obj\Debug\net8.0\meredian.csproj.CoreCompileInputs.cache
+C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\meredian\obj\Debug\net8.0\meredian.dll
+C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\meredian\obj\Debug\net8.0\refint\meredian.dll
+C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\meredian\obj\Debug\net8.0\meredian.pdb
+C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\meredian\obj\Debug\net8.0\meredian.genruntimeconfig.cache
+C:\Users\krik6\OneDrive\Рабочий стол\tinkoff_staje\meredian\obj\Debug\net8.0\ref\meredian.dll
