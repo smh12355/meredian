@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("meredian")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a957aab2e7ea0312621a15b8cbf1b957bfc94e42")]
 [assembly: System.Reflection.AssemblyProductAttribute("meredian")]
 [assembly: System.Reflection.AssemblyTitleAttribute("meredian")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
